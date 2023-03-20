@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">soccer</string>
+
+    <string name="spain">Spain</string>
+    <string name="argentina">Argentina</string>
+    <string name="australia">Australia</string>
+    <string name="canada">Canada</string>
+    <string name="congo">Congo</string>
+    <string name="egypt">Egypt</string>
+    <string name="france">France</string>
+    <string name="germany">Germany</string>
+    <string name="greece">Greece</string>
+    <string name="india">India</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="ireland">Ireland</string>
+    <string name="italy">Italy</string>
+    <string name="kenya">Kenya</string>
+    <string name="mexico">Mexico</string>
+    <string name="newzeland">Newzeland</string>
+    <string name="norway">Norway</string>
+    <string name="poland">Poland</string>
+    <string name="qatar">Qatar</string>
+    <string name="southafrica">Southafrica</string>
+    <string name="southkorea">Southkorea</string>
+    <string name="uk">UK</string>
+    <string name="usa">USA</string>
+</resources>
